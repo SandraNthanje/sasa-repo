@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="header">
+      <form action="">
+        <input type="text" id="weather" placeholder="Enter a city ..." />
+        <input type="submit" class="weather" value="Search" />
+      </form>
+    </div>
+    <div class="section">
+      <div clas="city">
+        <h1>Bulawayo</h1>
+      </div>
+      <div class="detail">
+        <p>
+          Sartuday 15:44,
+          <br />
+          Humidity:
+          <strong> 61% </strong>,
+          <br />
+          Mostly Cloudly ,
+          <br />
+          Wind
+          <strong> 30km/h </strong>
+        </p>
+        <h2>☀️24°C</h2>
+        <ul>
+          <li>
+            Sunday ☀️ <br />
+            14°C - 29°C
+          </li>
+          <li>
+            Monday ☀️ <br />
+            16°C - 31°C
+          </li>
+          <li>
+            Tuesday 🌥️
+            <br />
+            17°C - 27°C
+          </li>
+          <li>
+            Wednesday 🌥️
+            <br />
+            16°C - 28°C
+          </li>
+          <li>
+            Thursday ☀️ <br />
+            16°C - 30°C
+          </li>
+          <li>
+            Friday 🌥️ <br />
+            17°C - 29°C
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer">
+      <p>
+        This project was coded by
+        <a href="https://www.shecodes.io/graduates/"> Sandra Nthanje </a>
+and is 
+<a href="https://github.com/SandraNthanje/sasa-repo/new/main">
+on GitHub </a>
+      </p>
+    </div>
+  </body>
+</html>
